@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../../../../Desktop/WEB"
+		},
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../../../../WEB 2"
+		}
+	],
+	"settings": {
+		"livePreview.customExternalBrowser": "Chrome",
+		"liveServer.settings.multiRootWorkspaceName": "T4S"
+	}
+}
